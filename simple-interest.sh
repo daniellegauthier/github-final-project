@@ -6,7 +6,7 @@
 
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # <your GitHub username>
+   # @daniellegauthier
 
    # Input:
    # p, principal amount
@@ -16,7 +16,7 @@
    # Output:
    # simple interest = p*t*r
 
-   echo "Enter the principal:"
+   echo "Enter the principal amount:"
    read p
    echo "Enter rate of interest per year:"
    read r
